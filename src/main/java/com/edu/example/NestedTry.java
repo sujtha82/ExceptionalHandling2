@@ -18,7 +18,7 @@ public class NestedTry {
         System.out.println("other statement");
     }catch(Exception e){
         System.out.println("handeled");}
-    System.out.println("normal flow..");
+    System.out.println("normal flow..");//this is example
 }
 }
 
